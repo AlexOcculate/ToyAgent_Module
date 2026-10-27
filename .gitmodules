@@ -1,0 +1,33 @@
+[submodule "SubModules/ToyAgentNoBrain"]
+	path = SubModules/ToyAgentNoBrain
+	url = https://github.com/AlexOcculate/ToyAgentNoBrain
+[submodule "SubModules/ToyA2A"]
+	path = SubModules/ToyA2A
+	url = https://github.com/AlexOcculate/ToyA2A
+[submodule "SubModules/ToyMCP"]
+	path = SubModules/ToyMCP
+	url = https://github.com/AlexOcculate/ToyMCP
+[submodule "SubModules/ToyBrain"]
+	path = SubModules/ToyBrain
+	url = https://github.com/AlexOcculate/ToyBrain
+[submodule "SubModules/ToyPlanner"]
+	path = SubModules/ToyPlanner
+	url = https://github.com/AlexOcculate/ToyPlanner
+[submodule "SubModules/ToyEmbeddings"]
+	path = SubModules/ToyEmbeddings
+	url = https://github.com/AlexOcculate/ToyEmbeddings
+[submodule "SubModules/ToyVectorDB"]
+	path = SubModules/ToyVectorDB
+	url = https://github.com/AlexOcculate/ToyVectorDB
+[submodule "SubModules/ToyRAG"]
+	path = SubModules/ToyRAG
+	url = https://github.com/AlexOcculate/ToyRAG
+[submodule "SubModules/ToySandBox"]
+	path = SubModules/ToySandBox
+	url = https://github.com/AlexOcculate/ToySandBox
+[submodule "SubModules/ToyEvaluator"]
+	path = SubModules/ToyEvaluator
+	url = https://github.com/AlexOcculate/ToyEvaluator
+[submodule "SubModules/ToyCapstone"]
+	path = SubModules/ToyCapstone
+	url = https://github.com/AlexOcculate/ToyCapstone
