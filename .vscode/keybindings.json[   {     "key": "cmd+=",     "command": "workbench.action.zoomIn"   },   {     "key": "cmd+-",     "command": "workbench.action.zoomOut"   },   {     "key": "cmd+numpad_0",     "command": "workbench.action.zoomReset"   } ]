@@ -1,0 +1,14 @@
+[
+  {
+    "key": "cmd+=",
+    "command": "workbench.action.zoomIn"
+  },
+  {
+    "key": "cmd+-",
+    "command": "workbench.action.zoomOut"
+  },
+  {
+    "key": "cmd+numpad_0",
+    "command": "workbench.action.zoomReset"
+  }
+]
