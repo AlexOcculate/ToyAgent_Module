@@ -1,0 +1,14 @@
+{
+  "editor.mouseWheelZoom": true,
+  "terminal.integrated.mouseWheelZoom": true,
+  //
+  "editor.fontFamily": "'JetBrains Mono', monospace",
+  //
+  "editor.fontLigatures": true,
+  // 1. Scale the entire UI up (makes tabs, sidebar, and code larger)
+  "window.zoomLevel": 0.1,
+  // 2. Shrink the source code font back down to normal
+  "editor.fontSize": 14,
+  // 3. Shrink the integrated terminal text back down to normal
+  "terminal.integrated.fontSize": 17,
+}
